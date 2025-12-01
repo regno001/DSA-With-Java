@@ -2,4 +2,8 @@
  Array
  Graph 
  Tree 
+ Queue
+ Stack
+ 
  LinkedList
+
